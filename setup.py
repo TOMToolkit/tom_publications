@@ -27,7 +27,7 @@ setup(
     keywords=['tomtoolkit', 'astronomy', 'astrophysics', 'cosmology', 'science', 'fits', 'observatory'],
     packages=find_packages(),
     install_requires=[
-        'tomtoolkit==1.13.0.a5'
+        'tomtoolkit==2.0.0'
     ],
     extras_require={
         'test': ['factory_boy==3.1.0']
