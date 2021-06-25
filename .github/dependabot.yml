@@ -7,6 +7,7 @@ registries:
 updates:
 - package-ecosystem: pip
   directory: "/"
+  insecure-external-code-execution: allow
   schedule:
     interval: daily
     time: "13:00"
