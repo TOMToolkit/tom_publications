@@ -30,7 +30,7 @@ setup(
         'tomtoolkit==2.0.0'
     ],
     extras_require={
-        'test': ['factory_boy==3.2.0']
+        'test': ['factory_boy==3.2.1']
     },
     include_package_data=True,
 )
